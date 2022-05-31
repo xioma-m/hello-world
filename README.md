@@ -5,3 +5,4 @@
 -ramificación
 -rama principal
 -fusión
+-solicitud de cambios
