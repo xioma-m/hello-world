@@ -5,6 +5,7 @@
 -ramificación
 -rama principal
 -fusión
--solicitud de cambios
+-solicitud de cambios/extracción
 -confirmación
 -diffs
+-etiquetas
