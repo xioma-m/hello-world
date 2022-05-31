@@ -6,3 +6,5 @@
 -rama principal
 -fusión
 -solicitud de cambios
+-confirmación
+-diffs
